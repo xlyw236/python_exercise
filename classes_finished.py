@@ -1,7 +1,8 @@
 #
 # Example file for working with classes
 # (For Python 3.x, be sure to use the ExampleSnippets3.txt file)
-
+#xxxx
+#xxx
 class myClass():
   def method1(self):
     print "myClass method1"
